@@ -1,0 +1,10 @@
+{
+  "dorohedoro_premiere": "2020-01-13",
+  "target_date": "2020-01-14",
+  "database_id": "21b97551-844e-8068-b387-fe7a56b04348",
+  "filter": {
+    "property": "StartDate",
+    "date": {"equals": "2020-01-14"}
+  },
+  "metric": "SpentAmount"
+}
